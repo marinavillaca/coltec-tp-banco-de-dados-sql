@@ -13,7 +13,6 @@ A modelagem de banco de dados desenvolvida neste projeto foi concebida para repr
 
 A separação das entidades foi realizada de forma a contemplar os principais domínios operacionais de uma empresa, organizando o banco de dados em cinco entidades principais: Contabilidade, Pessoal, Funcionário, Departamento e Pagamento. Essa divisão permite a organização lógica e clara dos dados.
 
-
 Etapas do Projeto
 O trabalho é divido em 3 etapas: 
 
@@ -34,3 +33,5 @@ O modelo físico foi implementado diretamente no MySQL. Foram criadas tabelas pa
 - Consultas de Dados por meio da comando SELECT;
 - Alterações de Dados por meio da comando UPDATE;
 - Exclusões de Dados por meio do comando DELETE.
+
+
